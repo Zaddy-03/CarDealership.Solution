@@ -1,0 +1,102 @@
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.exe
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.deps.json
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.genruntimeconfig.cache
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.Views.dll
+C:\Users\HP\Desktop\CarDealership\bin\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.xml
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\scopedcss\bundle\Car.styles.css
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.TagHelpers.input.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.TagHelpers.output.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Car.csproj.CopyComplete
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Razor\Views\Items\CreateForm.cshtml.g.cs
+C:\Users\HP\Desktop\CarDealership\obj\Debug\net5.0\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.exe
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.deps.json
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.Views.dll
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.xml
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\scopedcss\bundle\Car.styles.css
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.TagHelpers.input.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.TagHelpers.output.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.genruntimeconfig.cache
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csproj.CopyComplete
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Car\CreateForm.cshtml.g.cs
+C:\Users\HP\Desktop\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.exe
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.deps.json
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.Views.dll
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\bin\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\staticwebassets\Car.StaticWebAssets.xml
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\scopedcss\bundle\Car.styles.css
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.TagHelpers.input.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.TagHelpers.output.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Car\CreateForm.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.Views.pdb
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.dll
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\ref\Car.dll
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.pdb
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# Class\CarDealership.Solution\CarDealership\obj\Debug\net5.0\Car.csproj.CopyComplete
